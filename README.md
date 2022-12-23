@@ -39,9 +39,11 @@
 **Скриншоты**
 
 *Клавиатура*
+
 ![kb](screen/kb_menu.png)
 
 *Поиск в Google(Выдаст 5 ссылок)*
+
 ![google](screen/google.png)
 ![google_2](screen/google_2.png)
 ![google_3](screen/google_3.png)
@@ -49,13 +51,17 @@
 *Узнать IP сайта*
 
 ![url](screen/url.png)
+
 ![url_info](screen/url_info.png)
 
 *Узнать погоду*
+
 ![weather](screen/weather.png)
+
 ![weather_2](screen/weather_info.png)
 
 *Поиск в YouTube(Выдаст 5 ссылок)*
+
 ![youtube](screen/youtube.png)
 ![youtube_2](screen/youtube_2.png)
 ![youtube_3](screen/youtube_3.png)
@@ -63,6 +69,7 @@
 *Узнать информацию об IP*
 
 ![ip](screen/ip.png)
+
 ![infoip](screen/ip_info.png)
 
 *Конвертация аудио из видео*
