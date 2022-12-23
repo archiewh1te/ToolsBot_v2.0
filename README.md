@@ -50,9 +50,9 @@
 
 *Узнать IP сайта*
 
-![url](screen/url.png)
+![url](screen/URL.png)
 
-![url_info](screen/url_info.png)
+![url_info](screen/URL_info.png)
 
 *Узнать погоду*
 
