@@ -3,7 +3,7 @@ from keyboards.inline import kb_menu_panel, kb_back
 from loader import dp
 from aiogram.dispatcher import FSMContext
 from time import sleep
-from youtubesearchpython import *
+from youtubesearchpython import CustomSearch, VideoUploadDateFilter
 from utils.misc import rate_limit
 
 
@@ -36,6 +36,7 @@ async def get_youtube(message: types.Message, state: FSMContext):
             await state.finish()  # ------ Сбрасываем состояние
     except Exception:
         await message.reply("Проверьте правильно ли написано название")
+        await state.finish()  # ------ Сбрасываем состояние
 
     await message.answer('Поиск видео завершен!\n'
                          'Воспользуйтесь кнопками меню', reply_markup=kb_menu_panel)
