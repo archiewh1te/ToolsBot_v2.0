@@ -22,7 +22,7 @@
 
 **Видео:**
 
-[![Watch the video](https://img.youtube.com/vi/j9j31tcdoP8/sddefault.jpg)](https://youtu.be/j9j31tcdoP8)
+[![Watch the video](https://img.youtube.com/vi/cKzHc3sCGCw/sddefault.jpg)](https://youtu.be/cKzHc3sCGCw)
 
 **Описание:**
 
