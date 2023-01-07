@@ -18,7 +18,7 @@
 
 ### Бот с инструментами
 
-![title](screen/logo.png)
+![title](screen/logotoolsbot2.png)
 
 **Видео:**
 
